@@ -1,0 +1,12 @@
+.deps
+Makefile
+Makefile.in
+aclocal.m4
+autohello
+autohello*.tar.gz
+*.o
+autom4te.cache
+build-aux
+config.log
+config.status
+configure
