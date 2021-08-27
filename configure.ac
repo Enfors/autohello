@@ -4,7 +4,7 @@
 # The first parameter is project name
 # Second is version number
 # Third is bug report address
-AC_INIT([autohello], [1.0])
+AC_INIT([autohello], [1.0], [christer.enfors@gmail.com])
 
 # Safety checks in case user overwritten --srcdir
 AC_CONFIG_SRCDIR([autohello.c])
